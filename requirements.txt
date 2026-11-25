@@ -1,0 +1,8 @@
+selenium
+webdriver-manager
+keyboard
+python-dotenv
+openpyxl
+PyPDF2
+pypdf
+msoffcrypto-tool

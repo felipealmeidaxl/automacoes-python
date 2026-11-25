@@ -1,0 +1,24 @@
+# credenciais
+.env
+
+# dados de trabalho (nunca versionar documentos reais)
+*.pdf
+*.xlsx
+*.xls
+*.csv
+_resultado.json
+RESULTADO/
+entrada/
+planilhas/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+*.exe
+
+# editor
+.vscode/
